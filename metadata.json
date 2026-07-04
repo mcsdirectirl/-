@@ -1,0 +1,8 @@
+{
+  "name": "بصيرة | رد الشبهات ومستشار الأسئلة الشرعية",
+  "description": "مساعد تفاعلي تفصيلي للإجابة على الأسئلة وتفنيد الشبهات حول الإسلام بالاستناد إلى الكتاب والسنة وفهم سلف الأمة والمواقع العلمية المعتمدة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
